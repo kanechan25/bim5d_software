@@ -2,7 +2,7 @@
 # 5D BIM Software
 - This tool is used in the AEC industry.
 - It's written by C# + Winform + VB. Net
-	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/0.%20workflowSoftware.PNG">
+	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/workflowSoftware.PNG">
 - The first, when we run the software, the initial form appears. Here, click [Import Files] button to add files:
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/1.%20ImportFiles.PNG">
 - The results of TIO software that exported to Excel files are supported to format, calculate or get important information for preparing for the next steps:
