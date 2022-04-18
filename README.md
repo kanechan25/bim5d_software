@@ -3,6 +3,8 @@
 - This tool is used in the AEC industry.
 - It's written by C# + Winform + VB. Net
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/workflowSoftware.PNG">
+- This is UI of Revit software. On this software, I get all element's information of building model.
+	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/5D_video_TTD_tool.mp4">
 - The first, when we run the software, the initial form appears. Here, click [Import Files] button to add files:
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/1.%20ImportFiles.PNG">
 - The results of TIO software that exported to Excel files are supported to format, calculate or get important information for preparing for the next steps:
