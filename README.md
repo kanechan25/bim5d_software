@@ -1,7 +1,7 @@
 ## Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> BIM Technologist - Web Developer 
 # 5D BIM Software
 - This tool is used in the AEC industry.
-- It's written by C# + Winform + VB. Net
+- It's written by Revit API, C# (OOP, winforms), SQL Server, VBScript
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/workflowSoftware.PNG">
 - Simply understanding, I have a building, I have to know quantities of everything (concrete, tiles, ceiling ... etc)
 Then, I calculate the cost estimate of that building.
