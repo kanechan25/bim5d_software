@@ -5,18 +5,18 @@
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/workflowSoftware.PNG">
 - Simply understanding, I have a building, I have to know quantities of everything (concrete, tiles, ceiling ... etc)
 Then, I calculate the cost estimate of that building.
-And software operates as below:
-- This is UI of Revit software. On this software, I get all element's information of building model.
-	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/5D_video_TTD_tool.mp4">
-	
-- The first, when we run the software, the initial form appears. Here, click [Import Files] button to add files:
+# And software operates as below:
+- This is UI of Revit software. On this software, I built tools to get all element's information of building model.
+	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/5D_video_TTD_tool.gif">
+After that, upper tools export files such as json, csv, xlsx... I use them as meterials to go to my software:
+- The first, when I run the software, the initial form appears. Here, click [Import Files] button to add files:
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/1.%20ImportFiles.PNG">
 - The results of TIO software that exported to Excel files are supported to format, calculate or get important information for preparing for the next steps:
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/2.%20SupportTIO.PNG">
-- The third stage, we will deal with rebar files. This form helps you calculate accurately the length of rebars, such as rebar hook, rebar bending, or rebar lap splices...
+- The third stage, I will deal with rebar files. This form helps you calculate accurately the length of rebars, such as rebar hook, rebar bending, or rebar lap splices...
 	Then results will are save and sync to Cloud.
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/3.%20SupportRebars.PNG">
-- Finally, the most important, we calculate, take-off quantity, sum up and fill them to file BOQ (Bill of Quantity).
+- Finally, the most important, I calculate, take-off quantity, sum up and fill them to file BOQ (Bill of Quantity).
 Rebars (structure department) also are added together on all final quantity BOQ.
 	Quantities that are classified by categories or leveled by height make Quantity Surveyor easier about quantity management:
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/4.%20BOQform.PNG">
