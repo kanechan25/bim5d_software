@@ -21,10 +21,9 @@ Then, I calculate the cost estimate of that building.
 &nbsp;
 
 ## And software operates as below:
-- This is UI of Revit software. On this software, I built tools to get all element's information of building model.
+- After using add-in <strong>bim5d add-in</strong>, I export information of building to .json, .csv, .xlsx... files
 
-	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/5D_video_TTD_tool.gif">
-After that, upper tools export files such as json, csv, xlsx... I use them as meterials to go to my software:
+The next, I use them as meterials to go to <strong>bim5d software</strong>:
 - The first, when I run the software, the initial form appears. Here, click [Import Files] button to add files:
 
 	<img src="https://github.com/kanechan25/5D-BIM-Software/blob/main/img/1.%20ImportFiles.PNG">
