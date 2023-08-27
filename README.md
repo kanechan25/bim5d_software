@@ -1,4 +1,4 @@
-# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="30px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> BIM Technologist - Software Developer 
+# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="30px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Software Developer 
 # BIM5D Application
 - <strong>BIM5D is a project which is the application to support Civil Engineer in quantity construction calculation and cost estimation. </strong>
 - Simply understanding, in the AEC (Architectural Engineering and Construction) industry, I have a building, I have to know quantities of everything (concrete, tiles, ceiling, rebar, brick ... etc)
@@ -58,4 +58,4 @@ Rebars (structure department) also are added together on all final quantity BOQ.
 
 - kt.itengineer@gmail.com
 - [Reading for funny (Vietnamese)](https://ngoatv.blogspot.com/)
-### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> © 2022 kanechan25
+### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> © 2019 kanechan25
